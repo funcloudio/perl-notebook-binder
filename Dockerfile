@@ -1,1 +1,1 @@
-FROM funcloudio/perl:7c990d941b12
+FROM funcloudio/perl:814a0d47c040
